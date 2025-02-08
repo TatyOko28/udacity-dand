@@ -58,7 +58,7 @@ Play detective and put your machine learning skills to use by building an algori
 [Link to review](https://review.udacity.com/#!/reviews/228881/shared)
 
 ### P6: Make Effective Data Visualization
-Create a data visualization from a data set that tells a story or highlights trends or patterns in the data. Use either dimple.js or d3.js to create the visualization. Your work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
+Create a data visualization from a data set that tells a story or highlights trends or patterns in the data. Use either dimple.js or d3.js to create the visualization. Your work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication
 
 [Link to report](/p6)
 
